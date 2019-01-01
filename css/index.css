@@ -466,7 +466,7 @@ ul,li{
 	width:800px;
 	height:550px;
 	float:left;
-	background:red;
+	/* background:red; */
 }
 .header4_2{
 	border-top:1px solid #fe6c00;
